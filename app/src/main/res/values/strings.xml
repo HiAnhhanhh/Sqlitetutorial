@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sqlitelogin1</string>
+    <string name="username">Username...</string>
+    <string name="login">Login</string>
+    <string name="do_you_have_an_account">Do you have an Account?</string>
+    <string name="register">Register</string>
+    <string name="email">Email...</string>
+    <string name="password">Password...</string>
+    <string name="repassword">RePassword...</string>
+</resources>
